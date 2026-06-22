@@ -36,13 +36,17 @@ def _load_all():
         _epfo = json.load(f)
 
 
-def get_business(msme_id=None, gstin=None):
+def get_business(msme_id=None, gstin=None, pan=None):
     _load_all()
     if msme_id:
         return _businesses.get(msme_id)
     if gstin:
         for b in _businesses.values():
             if b["gstin"] == gstin:
+                return b
+    if pan:
+        for b in _businesses.values():
+            if b["pan"] == pan:
                 return b
     return None
 

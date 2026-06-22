@@ -55,7 +55,7 @@ export default function SearchMSME() {
 
       {error && <p className="error">{error}</p>}
 
-      <div className="sample-ids">
+      {/* <div className="sample-ids">
         <p>Sample IDs for demo:</p>
         <div className="sample-id-list">
           {SAMPLE_IDS.map((id) => (
@@ -69,7 +69,7 @@ export default function SearchMSME() {
             </button>
           ))}
         </div>
-      </div>
+      </div> */}
 
       <div className="sample-ids">
         <p>Try GSTINs for demo:</p>
