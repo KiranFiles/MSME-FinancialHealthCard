@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { api } from "../api/client";
 import { useAppStore } from "../store/appStore";
 
-const SAMPLE_IDS = ["MSME1000", "MSME1001", "MSME1002", "MSME1003"];
+//const SAMPLE_IDS = ["MSME1000", "MSME1001", "MSME1002", "MSME1003"];
 const SAMPLE_GSTINS = ["182351161559Z5", "313413164752Z6", "308350305641Z4", "286965328710Z2"];
 const SAMPLE_PANS = ["USNZJ5803U", "JRSRB3803R", "XOSFM8517E", "DERPK8668Q"];
 
