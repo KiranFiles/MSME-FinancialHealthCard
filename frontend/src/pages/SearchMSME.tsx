@@ -4,6 +4,7 @@ import { api } from "../api/client";
 import { useAppStore } from "../store/appStore";
 
 const SAMPLE_IDS = ["MSME1000", "MSME1001", "MSME1002", "MSME1003"];
+const SAMPLE_GSTINS = ["182351161559Z5", "313413164752Z6", "308350305641Z4", "286965328710Z2"];
 
 export default function SearchMSME() {
   const [identifier, setIdentifier] = useState("");
@@ -64,6 +65,22 @@ export default function SearchMSME() {
               disabled={loading}
             >
               {id}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="sample-ids">
+        <p>Try GSTINs for demo:</p>
+        <div className="sample-id-list">
+          {SAMPLE_GSTINS.map((gstin) => (
+            <button
+              key={gstin}
+              className="sample-id-btn"
+              onClick={() => handleSearch(gstin)}
+              disabled={loading}
+            >
+              {gstin}
             </button>
           ))}
         </div>
