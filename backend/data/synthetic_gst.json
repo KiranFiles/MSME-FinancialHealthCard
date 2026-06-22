@@ -1,0 +1,2012 @@
+{
+  "MSME1000": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 3340423,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 1,
+        "turnover": 3547216,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 3611349,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 3510966,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 3353507,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 5,
+        "turnover": 3783199,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 4004730,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 7,
+        "turnover": 4146600,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 3320618,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 3858664,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 3901961,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 4106268,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 3707125,
+    "late_filings_count": 3,
+    "filing_consistency_pct": 75.0
+  },
+  "MSME1001": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 4388480,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 3729303,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 4090802,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 4492353,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 3617194,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 3553071,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 3455651,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 7,
+        "turnover": 3901733,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 3712525,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 4206440,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 3905925,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 4464218,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 3959808,
+    "late_filings_count": 1,
+    "filing_consistency_pct": 91.7
+  },
+  "MSME1002": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 3024382,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 2451368,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 2479816,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 2474201,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 4,
+        "turnover": 3015005,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 3041290,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 2721089,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 2608784,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 2582305,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 4333668,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 4764918,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 11,
+        "turnover": 4125439,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 3135189,
+    "late_filings_count": 2,
+    "filing_consistency_pct": 83.3
+  },
+  "MSME1003": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 3004123,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 2431921,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 2,
+        "turnover": 2813428,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 3,
+        "turnover": 2731321,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 2362932,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 2718212,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 6,
+        "turnover": 2292199,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 7,
+        "turnover": 2481924,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 2892953,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 9,
+        "turnover": 2764368,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 10,
+        "turnover": 2961502,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 2651836,
+        "filed_on_time": false
+      }
+    ],
+    "avg_monthly_turnover": 2675560,
+    "late_filings_count": 7,
+    "filing_consistency_pct": 41.7
+  },
+  "MSME1004": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 1299896,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 1630016,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 1249310,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 1452421,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 4,
+        "turnover": 1477307,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 1468516,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 1271551,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 7,
+        "turnover": 1306548,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 8,
+        "turnover": 1637040,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 1261527,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 1601104,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 1385767,
+        "filed_on_time": false
+      }
+    ],
+    "avg_monthly_turnover": 1420084,
+    "late_filings_count": 4,
+    "filing_consistency_pct": 66.7
+  },
+  "MSME1005": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 2136098,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 1839710,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 2046695,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 1982181,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 1734723,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 2129391,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 1889861,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 2096795,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 2073041,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 1736299,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 1813742,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 1865556,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 1945341,
+    "late_filings_count": 0,
+    "filing_consistency_pct": 100.0
+  },
+  "MSME1006": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 1471604,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 1400431,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 1314883,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 1269138,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 1287086,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 1484483,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 1231601,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 1479035,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 1263420,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 1502054,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 1532114,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 1397255,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 1386092,
+    "late_filings_count": 0,
+    "filing_consistency_pct": 100.0
+  },
+  "MSME1007": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 347889,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 268672,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 268612,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 260886,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 339242,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 266333,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 283751,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 295882,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 8,
+        "turnover": 289571,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 543467,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 530382,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 452022,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 345559,
+    "late_filings_count": 1,
+    "filing_consistency_pct": 91.7
+  },
+  "MSME1008": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 1455691,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 1192078,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 1506847,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 1434236,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 1170751,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 1271336,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 1211240,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 1382161,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 1221167,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 9,
+        "turnover": 1506140,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 1249974,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 1210243,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 1317655,
+    "late_filings_count": 1,
+    "filing_consistency_pct": 91.7
+  },
+  "MSME1009": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 1276084,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 1202590,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 1232247,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 3,
+        "turnover": 1377581,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 1142034,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 1284642,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 1143116,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 1344076,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 8,
+        "turnover": 1172006,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 1140838,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 1040968,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 1177271,
+        "filed_on_time": false
+      }
+    ],
+    "avg_monthly_turnover": 1211121,
+    "late_filings_count": 3,
+    "filing_consistency_pct": 75.0
+  },
+  "MSME1010": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 4055689,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 1,
+        "turnover": 3898967,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 4236468,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 4117115,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 3610960,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 3915386,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 4028779,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 4161862,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 4235616,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 3561779,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 3868552,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 3313769,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 3917078,
+    "late_filings_count": 1,
+    "filing_consistency_pct": 91.7
+  },
+  "MSME1011": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 2990280,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 3656181,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 2,
+        "turnover": 3286930,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 3,
+        "turnover": 2954553,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 3722930,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 3083263,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 3584997,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 2866598,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 3014741,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 5212945,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 4548716,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 11,
+        "turnover": 4173788,
+        "filed_on_time": false
+      }
+    ],
+    "avg_monthly_turnover": 3591327,
+    "late_filings_count": 4,
+    "filing_consistency_pct": 66.7
+  },
+  "MSME1012": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 3375083,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 3726359,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 2,
+        "turnover": 3028738,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 3,
+        "turnover": 3671004,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 3701637,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 5,
+        "turnover": 2860270,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 3695842,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 7,
+        "turnover": 3201026,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 8,
+        "turnover": 3732254,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 9,
+        "turnover": 3284299,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 10,
+        "turnover": 3673991,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 11,
+        "turnover": 3245806,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 3433026,
+    "late_filings_count": 8,
+    "filing_consistency_pct": 33.3
+  },
+  "MSME1013": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 3306347,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 3489042,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 3418792,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 3380304,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 3051081,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 2989855,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 3008323,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 3738306,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 3660652,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 2836256,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 3725838,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 3584690,
+        "filed_on_time": false
+      }
+    ],
+    "avg_monthly_turnover": 3349124,
+    "late_filings_count": 1,
+    "filing_consistency_pct": 91.7
+  },
+  "MSME1014": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 1069935,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 1,
+        "turnover": 1129085,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 922965,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 905089,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 948301,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 1154941,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 929711,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 884575,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 928817,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 9,
+        "turnover": 961867,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 10,
+        "turnover": 1089868,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 11,
+        "turnover": 888325,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 984457,
+    "late_filings_count": 4,
+    "filing_consistency_pct": 66.7
+  },
+  "MSME1015": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 981198,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 1,
+        "turnover": 1019417,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 2,
+        "turnover": 1014903,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 3,
+        "turnover": 1130144,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 4,
+        "turnover": 1180214,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 1052062,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 1226217,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 1202681,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 8,
+        "turnover": 1197322,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 9,
+        "turnover": 2280716,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 10,
+        "turnover": 1653353,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 11,
+        "turnover": 1901317,
+        "filed_on_time": false
+      }
+    ],
+    "avg_monthly_turnover": 1319962,
+    "late_filings_count": 9,
+    "filing_consistency_pct": 25.0
+  },
+  "MSME1016": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 706404,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 643660,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 685512,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 700769,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 720405,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 710040,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 724289,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 669413,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 646462,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 662165,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 664361,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 653669,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 682262,
+    "late_filings_count": 0,
+    "filing_consistency_pct": 100.0
+  },
+  "MSME1017": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 2352143,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 1,
+        "turnover": 1880311,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 2339306,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 2194713,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 2029895,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 2045267,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 2299847,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 2281092,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 2203663,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 2189229,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 2239811,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 1887791,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 2161922,
+    "late_filings_count": 1,
+    "filing_consistency_pct": 91.7
+  },
+  "MSME1018": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 1579286,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 1655687,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 1827384,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 1780462,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 1746977,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 1789848,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 6,
+        "turnover": 1576597,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 1905592,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 1529976,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 1771514,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 10,
+        "turnover": 1813953,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 1484480,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 1705146,
+    "late_filings_count": 2,
+    "filing_consistency_pct": 83.3
+  },
+  "MSME1019": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 1645400,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 1842740,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 1762911,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 1495962,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 1788956,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 1609740,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 1720441,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 1610291,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 1527691,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 2624322,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 2437664,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 2355786,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 1868492,
+    "late_filings_count": 0,
+    "filing_consistency_pct": 100.0
+  },
+  "MSME1020": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 1118079,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 917873,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 1014427,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 3,
+        "turnover": 1046105,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 1054230,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 990655,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 1111204,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 1023471,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 8,
+        "turnover": 977879,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 1006274,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 970562,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 1180871,
+        "filed_on_time": false
+      }
+    ],
+    "avg_monthly_turnover": 1034302,
+    "late_filings_count": 3,
+    "filing_consistency_pct": 75.0
+  },
+  "MSME1021": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 2898613,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 1,
+        "turnover": 2690533,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 2,
+        "turnover": 2689681,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 3,
+        "turnover": 2395924,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 2944849,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 5,
+        "turnover": 2972258,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 6,
+        "turnover": 2852220,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 2490755,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 2620093,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 3980099,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 10,
+        "turnover": 3532784,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 11,
+        "turnover": 4019584,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 3007283,
+    "late_filings_count": 7,
+    "filing_consistency_pct": 41.7
+  },
+  "MSME1022": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 2996306,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 2741137,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 2837668,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 2887801,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 2890053,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 2423266,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 2619135,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 2413149,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 2625472,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 2413748,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 2430318,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 3080529,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 2696548,
+    "late_filings_count": 0,
+    "filing_consistency_pct": 100.0
+  },
+  "MSME1023": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 2331664,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 2439988,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 2,
+        "turnover": 2556193,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 2063851,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 2277730,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 2243001,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 2507238,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 1992877,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 1962012,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 2612159,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 2351797,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 11,
+        "turnover": 2562263,
+        "filed_on_time": false
+      }
+    ],
+    "avg_monthly_turnover": 2325064,
+    "late_filings_count": 3,
+    "filing_consistency_pct": 75.0
+  },
+  "MSME1024": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 3498135,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 3548518,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 2984938,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 3178277,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 3557957,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 3778899,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 3482693,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 3245232,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 3600691,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 3495235,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 3204208,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 3695690,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 3439206,
+    "late_filings_count": 0,
+    "filing_consistency_pct": 100.0
+  },
+  "MSME1025": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 3357793,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 3327008,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 3112070,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 2532763,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 3361400,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 3197071,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 3404751,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 2779293,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 2967501,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 3172635,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 3104497,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 3065507,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 3115191,
+    "late_filings_count": 0,
+    "filing_consistency_pct": 100.0
+  },
+  "MSME1026": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 876205,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 870873,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 2,
+        "turnover": 782080,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 839149,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 4,
+        "turnover": 783640,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 5,
+        "turnover": 856406,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 805114,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 7,
+        "turnover": 870772,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 877106,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 1618926,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 1107664,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 1556228,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 987014,
+    "late_filings_count": 4,
+    "filing_consistency_pct": 66.7
+  },
+  "MSME1027": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 632347,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 702262,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 776813,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 648235,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 656044,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 733411,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 641011,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 799889,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 824821,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 707793,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 705539,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 670119,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 708190,
+    "late_filings_count": 0,
+    "filing_consistency_pct": 100.0
+  },
+  "MSME1028": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 591029,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 504094,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 621536,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 3,
+        "turnover": 504296,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 556863,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 5,
+        "turnover": 494189,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 622419,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 604140,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 499612,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 531844,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 10,
+        "turnover": 551980,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 558307,
+        "filed_on_time": true
+      }
+    ],
+    "avg_monthly_turnover": 553359,
+    "late_filings_count": 2,
+    "filing_consistency_pct": 83.3
+  },
+  "MSME1029": {
+    "monthly": [
+      {
+        "month_index": 0,
+        "turnover": 3989146,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 1,
+        "turnover": 4035313,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 2,
+        "turnover": 3699340,
+        "filed_on_time": false
+      },
+      {
+        "month_index": 3,
+        "turnover": 3772204,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 4,
+        "turnover": 3576260,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 5,
+        "turnover": 3974265,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 6,
+        "turnover": 4483263,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 7,
+        "turnover": 4285556,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 8,
+        "turnover": 3378566,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 9,
+        "turnover": 3406034,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 10,
+        "turnover": 3796459,
+        "filed_on_time": true
+      },
+      {
+        "month_index": 11,
+        "turnover": 3777269,
+        "filed_on_time": false
+      }
+    ],
+    "avg_monthly_turnover": 3847806,
+    "late_filings_count": 2,
+    "filing_consistency_pct": 83.3
+  }
+}

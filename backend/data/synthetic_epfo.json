@@ -1,0 +1,152 @@
+{
+  "MSME1000": {
+    "employee_count": 29,
+    "contribution_consistency_pct": 75.0,
+    "employee_count_trend": "stable"
+  },
+  "MSME1001": {
+    "employee_count": 16,
+    "contribution_consistency_pct": 83.3,
+    "employee_count_trend": "stable"
+  },
+  "MSME1002": {
+    "employee_count": 27,
+    "contribution_consistency_pct": 91.7,
+    "employee_count_trend": "stable"
+  },
+  "MSME1003": {
+    "employee_count": 5,
+    "contribution_consistency_pct": 50.0,
+    "employee_count_trend": "declining"
+  },
+  "MSME1004": {
+    "employee_count": 21,
+    "contribution_consistency_pct": 66.7,
+    "employee_count_trend": "stable"
+  },
+  "MSME1005": {
+    "employee_count": 63,
+    "contribution_consistency_pct": 91.7,
+    "employee_count_trend": "stable"
+  },
+  "MSME1006": {
+    "employee_count": 20,
+    "contribution_consistency_pct": 100.0,
+    "employee_count_trend": "stable"
+  },
+  "MSME1007": {
+    "employee_count": 68,
+    "contribution_consistency_pct": 75.0,
+    "employee_count_trend": "declining"
+  },
+  "MSME1008": {
+    "employee_count": 28,
+    "contribution_consistency_pct": 75.0,
+    "employee_count_trend": "growing"
+  },
+  "MSME1009": {
+    "employee_count": 51,
+    "contribution_consistency_pct": 75.0,
+    "employee_count_trend": "declining"
+  },
+  "MSME1010": {
+    "employee_count": 16,
+    "contribution_consistency_pct": 100.0,
+    "employee_count_trend": "growing"
+  },
+  "MSME1011": {
+    "employee_count": 7,
+    "contribution_consistency_pct": 41.7,
+    "employee_count_trend": "declining"
+  },
+  "MSME1012": {
+    "employee_count": 44,
+    "contribution_consistency_pct": 50.0,
+    "employee_count_trend": "declining"
+  },
+  "MSME1013": {
+    "employee_count": 15,
+    "contribution_consistency_pct": 75.0,
+    "employee_count_trend": "stable"
+  },
+  "MSME1014": {
+    "employee_count": 41,
+    "contribution_consistency_pct": 91.7,
+    "employee_count_trend": "stable"
+  },
+  "MSME1015": {
+    "employee_count": 41,
+    "contribution_consistency_pct": 66.7,
+    "employee_count_trend": "stable"
+  },
+  "MSME1016": {
+    "employee_count": 26,
+    "contribution_consistency_pct": 91.7,
+    "employee_count_trend": "growing"
+  },
+  "MSME1017": {
+    "employee_count": 42,
+    "contribution_consistency_pct": 83.3,
+    "employee_count_trend": "stable"
+  },
+  "MSME1018": {
+    "employee_count": 36,
+    "contribution_consistency_pct": 91.7,
+    "employee_count_trend": "growing"
+  },
+  "MSME1019": {
+    "employee_count": 16,
+    "contribution_consistency_pct": 100.0,
+    "employee_count_trend": "declining"
+  },
+  "MSME1020": {
+    "employee_count": 73,
+    "contribution_consistency_pct": 75.0,
+    "employee_count_trend": "growing"
+  },
+  "MSME1021": {
+    "employee_count": 71,
+    "contribution_consistency_pct": 58.3,
+    "employee_count_trend": "declining"
+  },
+  "MSME1022": {
+    "employee_count": 36,
+    "contribution_consistency_pct": 100.0,
+    "employee_count_trend": "stable"
+  },
+  "MSME1023": {
+    "employee_count": 38,
+    "contribution_consistency_pct": 41.7,
+    "employee_count_trend": "stable"
+  },
+  "MSME1024": {
+    "employee_count": 11,
+    "contribution_consistency_pct": 91.7,
+    "employee_count_trend": "stable"
+  },
+  "MSME1025": {
+    "employee_count": 45,
+    "contribution_consistency_pct": 91.7,
+    "employee_count_trend": "growing"
+  },
+  "MSME1026": {
+    "employee_count": 5,
+    "contribution_consistency_pct": 50.0,
+    "employee_count_trend": "declining"
+  },
+  "MSME1027": {
+    "employee_count": 8,
+    "contribution_consistency_pct": 100.0,
+    "employee_count_trend": "growing"
+  },
+  "MSME1028": {
+    "employee_count": 13,
+    "contribution_consistency_pct": 91.7,
+    "employee_count_trend": "growing"
+  },
+  "MSME1029": {
+    "employee_count": 78,
+    "contribution_consistency_pct": 75.0,
+    "employee_count_trend": "stable"
+  }
+}

@@ -1,0 +1,461 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: #f7f8f6;
+  color: #1a2e25;
+}
+
+.app-shell {
+  min-height: 100vh;
+}
+
+.top-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  background: #1f6f54;
+  color: white;
+}
+
+.nav-brand {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.screen {
+  max-width: 640px;
+  margin: 40px auto;
+  padding: 32px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+.screen.wide {
+  max-width: 960px;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 24px;
+}
+
+.subtitle {
+  color: #5b6b62;
+  margin-bottom: 24px;
+}
+
+.text-input {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 15px;
+  border: 1px solid #d3d9d5;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+
+button {
+  background: #1f6f54;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:disabled {
+  background: #a0aaa4;
+  cursor: not-allowed;
+}
+
+.error {
+  color: #b3261e;
+  margin-top: 8px;
+}
+
+.sample-ids {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid #e5e8e6;
+}
+
+.sample-id-list {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.sample-id-btn {
+  background: white;
+  color: #1f6f54;
+  border: 1px solid #1f6f54;
+  padding: 6px 12px;
+  font-size: 13px;
+}
+
+.consent-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.consent-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 12px;
+  border: 1px solid #e5e8e6;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.consent-item input {
+  margin-top: 4px;
+}
+
+.consent-label {
+  font-weight: 600;
+}
+
+.consent-description {
+  font-size: 13px;
+  color: #5b6b62;
+  margin-top: 2px;
+}
+
+.gauge-section {
+  text-align: center;
+  margin: 24px 0;
+}
+
+.gauge-number {
+  font-size: 56px;
+  font-weight: 700;
+  color: #1f6f54;
+}
+
+.gauge-label {
+  color: #5b6b62;
+  font-size: 14px;
+}
+
+.outcome-comparison {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.outcome-box {
+  flex: 1;
+  padding: 16px;
+  border-radius: 6px;
+  background: #f2f4f2;
+}
+
+.outcome-title {
+  font-size: 12px;
+  color: #5b6b62;
+  margin-bottom: 6px;
+}
+
+.outcome-value {
+  font-weight: 600;
+}
+
+.outcome-value.negative {
+  color: #b3261e;
+}
+
+.outcome-value.positive {
+  color: #1f6f54;
+}
+
+.radar-section {
+  margin-bottom: 24px;
+}
+
+.weights-legend {
+  font-size: 13px;
+  color: #5b6b62;
+  margin-bottom: 24px;
+}
+
+.weights-legend ul {
+  margin: 8px 0;
+  padding-left: 20px;
+}
+
+.narrative-box {
+  background: #f2f4f2;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 24px;
+  white-space: pre-wrap;
+}
+
+.portfolio-stats {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.stat-box {
+  flex: 1;
+  padding: 16px;
+  background: #f2f4f2;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.stat-value {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1f6f54;
+}
+
+.stat-label {
+  font-size: 12px;
+  color: #5b6b62;
+  margin-top: 4px;
+}
+
+.portfolio-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+}
+
+.portfolio-table th,
+.portfolio-table td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid #e5e8e6;
+  font-size: 14px;
+}
+
+.sortable {
+  cursor: pointer;
+}
+
+.score-risk {
+  color: #b3261e;
+  font-weight: 600;
+}
+
+.score-ok {
+  color: #1f6f54;
+  font-weight: 600;
+}
+
+.refresh-btn {
+  font-size: 12px;
+  padding: 6px 10px;
+}
+
+/* ---- Health Card improvements ---- */
+
+.hc-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+
+.hc-score-block {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f7f8f6;
+  border-radius: 8px;
+  padding: 20px 24px;
+  margin-bottom: 20px;
+}
+
+/* Score band strip */
+.score-band-wrap {
+  position: relative;
+  margin-bottom: 32px;
+}
+
+.score-band-strip {
+  display: flex;
+  border-radius: 6px;
+  overflow: hidden;
+  height: 48px;
+}
+
+.score-band-segment {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+}
+
+.score-band-pointer {
+  position: absolute;
+  bottom: -24px;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12px;
+}
+
+.score-band-pointer::before {
+  content: "";
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 8px solid currentColor;
+  margin-bottom: 2px;
+}
+
+/* Dimension cards */
+.dimension-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.dimension-card {
+  border-radius: 8px;
+  border: 1px solid #e5e8e6;
+  padding: 14px 16px;
+  background: white;
+}
+
+.dim-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.dim-card-label {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.dim-card-source {
+  font-size: 11px;
+  color: #888;
+  margin-top: 2px;
+}
+
+.dim-card-score {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.dim-card-score-max {
+  font-size: 13px;
+  color: #888;
+  font-weight: 400;
+}
+
+.dim-progress-bg {
+  height: 6px;
+  background: #e5e8e6;
+  border-radius: 3px;
+  margin-bottom: 8px;
+  overflow: hidden;
+}
+
+.dim-progress-fill {
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.6s ease;
+}
+
+.dim-card-plain {
+  font-size: 12px;
+  color: #5b6b62;
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
+.dim-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dim-band-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.dim-weight-label {
+  font-size: 11px;
+  color: #888;
+}
+
+/* Section titles */
+.section-title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #1a2e25;
+  margin-bottom: 4px;
+}
+
+/* Learned weights bar list */
+.weights-bar-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.weight-bar-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.weight-bar-label {
+  font-size: 13px;
+  width: 180px;
+  flex-shrink: 0;
+}
+
+.weight-bar-track {
+  flex: 1;
+  height: 8px;
+  background: #e5e8e6;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.weight-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+}
+
+.weight-bar-value {
+  font-size: 13px;
+  font-weight: 600;
+  width: 36px;
+  text-align: right;
+}

@@ -1,0 +1,182 @@
+{
+  "MSME1000": {
+    "monthly_volume": 300020,
+    "avg_ticket_size": 5981,
+    "inflow_variance": 0.68,
+    "active_days_pct": 82.6
+  },
+  "MSME1001": {
+    "monthly_volume": 214682,
+    "avg_ticket_size": 7378,
+    "inflow_variance": 0.74,
+    "active_days_pct": 82.1
+  },
+  "MSME1002": {
+    "monthly_volume": 347574,
+    "avg_ticket_size": 6741,
+    "inflow_variance": 0.46,
+    "active_days_pct": 70.8
+  },
+  "MSME1003": {
+    "monthly_volume": 111024,
+    "avg_ticket_size": 7302,
+    "inflow_variance": 1.35,
+    "active_days_pct": 54.7
+  },
+  "MSME1004": {
+    "monthly_volume": 615312,
+    "avg_ticket_size": 4029,
+    "inflow_variance": 0.97,
+    "active_days_pct": 46.3
+  },
+  "MSME1005": {
+    "monthly_volume": 186791,
+    "avg_ticket_size": 3206,
+    "inflow_variance": 0.39,
+    "active_days_pct": 93.5
+  },
+  "MSME1006": {
+    "monthly_volume": 289110,
+    "avg_ticket_size": 1751,
+    "inflow_variance": 0.26,
+    "active_days_pct": 89.6
+  },
+  "MSME1007": {
+    "monthly_volume": 29615,
+    "avg_ticket_size": 389,
+    "inflow_variance": 0.69,
+    "active_days_pct": 85.9
+  },
+  "MSME1008": {
+    "monthly_volume": 524072,
+    "avg_ticket_size": 2421,
+    "inflow_variance": 0.75,
+    "active_days_pct": 72.3
+  },
+  "MSME1009": {
+    "monthly_volume": 168707,
+    "avg_ticket_size": 5543,
+    "inflow_variance": 0.75,
+    "active_days_pct": 73.7
+  },
+  "MSME1010": {
+    "monthly_volume": 584128,
+    "avg_ticket_size": 7244,
+    "inflow_variance": 0.22,
+    "active_days_pct": 98.1
+  },
+  "MSME1011": {
+    "monthly_volume": 389491,
+    "avg_ticket_size": 6084,
+    "inflow_variance": 1.08,
+    "active_days_pct": 40.8
+  },
+  "MSME1012": {
+    "monthly_volume": 514863,
+    "avg_ticket_size": 415,
+    "inflow_variance": 0.93,
+    "active_days_pct": 48.9
+  },
+  "MSME1013": {
+    "monthly_volume": 266236,
+    "avg_ticket_size": 1357,
+    "inflow_variance": 0.45,
+    "active_days_pct": 83.6
+  },
+  "MSME1014": {
+    "monthly_volume": 213873,
+    "avg_ticket_size": 7233,
+    "inflow_variance": 0.71,
+    "active_days_pct": 83.8
+  },
+  "MSME1015": {
+    "monthly_volume": 31817,
+    "avg_ticket_size": 3667,
+    "inflow_variance": 1.08,
+    "active_days_pct": 67.0
+  },
+  "MSME1016": {
+    "monthly_volume": 448646,
+    "avg_ticket_size": 1082,
+    "inflow_variance": 0.25,
+    "active_days_pct": 99.5
+  },
+  "MSME1017": {
+    "monthly_volume": 336561,
+    "avg_ticket_size": 530,
+    "inflow_variance": 0.77,
+    "active_days_pct": 85.1
+  },
+  "MSME1018": {
+    "monthly_volume": 167477,
+    "avg_ticket_size": 4709,
+    "inflow_variance": 0.51,
+    "active_days_pct": 72.9
+  },
+  "MSME1019": {
+    "monthly_volume": 307322,
+    "avg_ticket_size": 5457,
+    "inflow_variance": 0.24,
+    "active_days_pct": 99.4
+  },
+  "MSME1020": {
+    "monthly_volume": 178374,
+    "avg_ticket_size": 5915,
+    "inflow_variance": 0.79,
+    "active_days_pct": 81.4
+  },
+  "MSME1021": {
+    "monthly_volume": 319716,
+    "avg_ticket_size": 208,
+    "inflow_variance": 1.06,
+    "active_days_pct": 45.8
+  },
+  "MSME1022": {
+    "monthly_volume": 377065,
+    "avg_ticket_size": 4538,
+    "inflow_variance": 0.15,
+    "active_days_pct": 98.0
+  },
+  "MSME1023": {
+    "monthly_volume": 298961,
+    "avg_ticket_size": 2813,
+    "inflow_variance": 1.27,
+    "active_days_pct": 53.6
+  },
+  "MSME1024": {
+    "monthly_volume": 513937,
+    "avg_ticket_size": 2379,
+    "inflow_variance": 0.33,
+    "active_days_pct": 93.9
+  },
+  "MSME1025": {
+    "monthly_volume": 373282,
+    "avg_ticket_size": 5542,
+    "inflow_variance": 0.39,
+    "active_days_pct": 97.8
+  },
+  "MSME1026": {
+    "monthly_volume": 234798,
+    "avg_ticket_size": 5799,
+    "inflow_variance": 1.29,
+    "active_days_pct": 62.9
+  },
+  "MSME1027": {
+    "monthly_volume": 123710,
+    "avg_ticket_size": 965,
+    "inflow_variance": 0.38,
+    "active_days_pct": 93.8
+  },
+  "MSME1028": {
+    "monthly_volume": 630677,
+    "avg_ticket_size": 5404,
+    "inflow_variance": 0.37,
+    "active_days_pct": 97.4
+  },
+  "MSME1029": {
+    "monthly_volume": 606299,
+    "avg_ticket_size": 4006,
+    "inflow_variance": 0.45,
+    "active_days_pct": 82.5
+  }
+}
