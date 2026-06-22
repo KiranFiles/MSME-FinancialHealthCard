@@ -183,8 +183,8 @@ export default function HealthCard() {
       {/* Header */}
       <div className="hc-header">
         <div>
-          <h1 style={{ marginBottom: 4 }}>{business.business_name}</h1>
-          <p className="subtitle" style={{ marginBottom: 0 }}>
+          <h1 style={{ marginBottom: 4 }}> Business/Company Name:{business.business_name}</h1>
+          <p className="subtitle" style={{ marginBottom: 0 }}> Sector : 
             {business.sector} — {business.state} —{" "}
             <span
               className="dim-band-badge"
