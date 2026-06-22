@@ -55,9 +55,16 @@ export interface PortfolioResponse {
 }
 
 async function request<T>(path: string, options?: RequestInit): Promise<T> {
+  const hasBody = options?.body !== undefined;
+  const headers = new Headers(options?.headers);
+
+  if (hasBody && !headers.has("Content-Type")) {
+    headers.set("Content-Type", "application/json");
+  }
+
   const res = await fetch(`${API_BASE}${path}`, {
-    headers: { "Content-Type": "application/json" },
     ...options,
+    headers,
   });
   if (!res.ok) {
     const body = await res.json().catch(() => ({ detail: res.statusText }));
