@@ -67,3 +67,8 @@ pids/
 # Misc
 # ========================
 *.tgz
+
+venv/
+.venv/
+__pycache__/
+*.pyc
