@@ -5,6 +5,7 @@ import { useAppStore } from "../store/appStore";
 
 const SAMPLE_IDS = ["MSME1000", "MSME1001", "MSME1002", "MSME1003"];
 const SAMPLE_GSTINS = ["182351161559Z5", "313413164752Z6", "308350305641Z4", "286965328710Z2"];
+const SAMPLE_PANS = ["USNZJ5803U", "JRSRB3803R", "XOSFM8517E", "DERPK8668Q"];
 
 export default function SearchMSME() {
   const [identifier, setIdentifier] = useState("");
@@ -31,7 +32,7 @@ export default function SearchMSME() {
     <div className="screen">
       <h1>MSME Financial Health Card</h1>
       <p className="subtitle">
-        Search a business by GSTIN or MSME ID to begin assessment.
+        Search a business by GSTIN, PAN, or MSME ID to begin assessment.
       </p>
 
       <form
@@ -44,7 +45,7 @@ export default function SearchMSME() {
           type="text"
           value={identifier}
           onChange={(e) => setIdentifier(e.target.value)}
-          placeholder="Enter GSTIN or MSME ID (e.g. MSME1000)"
+          placeholder="Enter GSTIN, PAN, or MSME ID (e.g. MSME1000)"
           className="text-input"
         />
         <button type="submit" disabled={loading}>
@@ -81,6 +82,22 @@ export default function SearchMSME() {
               disabled={loading}
             >
               {gstin}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <div className="sample-ids">
+        <p>Try PANs for demo:</p>
+        <div className="sample-id-list">
+          {SAMPLE_PANS.map((pan) => (
+            <button
+              key={pan}
+              className="sample-id-btn"
+              onClick={() => handleSearch(pan)}
+              disabled={loading}
+            >
+              {pan}
             </button>
           ))}
         </div>
