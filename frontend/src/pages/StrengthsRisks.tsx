@@ -49,8 +49,8 @@ export default function StrengthsRisks() {
         </div>
       )}
 
-      <button onClick={() => navigate("/portfolio")}>
-        View lender portfolio
+      <button onClick={() => navigate("/")}>
+        Go to home 
       </button>
     </div>
   );
