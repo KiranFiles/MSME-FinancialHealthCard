@@ -27,9 +27,9 @@ app.include_router(portfolio.router, tags=["portfolio"])
 
 @app.get("/")
 def root():
-    return {"status": "ok", "service": "MSME Financial Health Card API"}
+    return {"status": "ok", "service": "MSME Financial Health Card API is running successfully"}
 
 
 @app.get("/health")
 def health():
-    return {"status": "healthy"}
+    return {"status": "API is healthy"}
